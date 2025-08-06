@@ -74,7 +74,7 @@ understanding of both theoretical frameworks and real-world implications.
 		<td> 10 min </td>
 		<td> Concluding Remarks and Future Direction </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/ilke_demir.png" width="50%">   
+			<img style="padding-right: 5%; float: left;" src="images/yezhouyang.webp" width="50%">   
 			<a href="https://faculty.engineering.asu.edu/yezhouyang/">Yezhou Yang</a> <br/> (Associate Professor, ASU)
 		</td>
 	</tr>
