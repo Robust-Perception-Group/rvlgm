@@ -85,7 +85,7 @@ understanding of both theoretical frameworks and real-world implications.
 
 ## Student Co-organizers 
 
-Minjun So (Undergraduate Student, SSU)
+Minjun So (SSU)
 
 ---
 *This website will be updated closer to the event date.*
