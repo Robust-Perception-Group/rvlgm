@@ -88,7 +88,4 @@ understanding of both theoretical frameworks and real-world implications.
 *This website will be updated closer to the event date.*
 
 
-```
-The tutorial is supported by the University of Maryland Center for Machine Learning and the NSF Institute for Trustworthy AI in Law & Society. 
-Further support comes from Arizona State University through the NSF Robust Intelligence grant #2132724 and NSF SaTC project #2101052.
-```
+
