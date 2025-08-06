@@ -2,11 +2,12 @@
 ---
 The official Website for Responsibly Building Generative Models Tutorial at ICCV 2025.
 
-Date and Time 9/29, 2PM, Suite 7
+Date and Time : TBD
 Zoom link: https://asu.zoom.us/j/81540604207?pwd=UdeUUq7B6MvEgNOnTKJuSrOAfSBzTF.1
 Pwd: eccv2024
 
-Hosted by [Gowthami Somepalli](https://somepago.github.io/) (UMD), [Changhoon Kim](https://www.changhoonkim.com/) (ASU), [Tejas Gokhale](https://www.tejasgokhale.com/) (UMBC), [Kyle Min](https://sites.google.com/view/kylemin) (Intel Labs), [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (ASU) and [Tom Goldstein](https://www.cs.umd.edu/~tomg/) (UMD)
+Hosted by [Changhoon Kim](https://www.changhoonkim.com/) (SSU), <u>[Wanyu Du](https://wyu-du.github.io/) (AWS), [Dongyoon Yang] (SK Hynix), [Kyle Min](https://sites.google.com/view/kylemin) (Intel Labs), 
+<u>[Maitreya Patel](https://maitreyapatel.com/) (ASU) and [Yezhou Yang](https://yezhouyang.engineering.asu.edu/)(ASU) 
 
 ## Agenda
 Over the past few years, text-to-image (T2I) and image-to-text (I2T) vision-language generative models have evolved from research prototypes to widely deployed systems, transforming fields such as entertainment, journalism, and education. While these models enable compelling applications, they also introduce critical challenges related to robustness, controllability, and ethical risks. They can generate unauthorized content, including explicit or copyright-protected material, violating ethical and legal guidelines. Additionally, they suffer from prompt misalignment, biases, factual inconsistencies, and hallucinations, raising serious reliability concerns in high-stakes applications. Despite extensive guardrails, adversarial actors continue to develop jailbreaking techniques, leading to an ongoing arms race between security measures and attacks. Addressing these vulnerabilities demands a systematic analysis of failure modes, rigorous mitigation strategies, and deeper theoretical insights into adversarial robustness. Advancing our understanding of these challenges is essential for ensuring the safe, reliable, and responsible deployment of vision-language generative models.
