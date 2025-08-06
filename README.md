@@ -80,6 +80,9 @@ understanding of both theoretical frameworks and real-world implications.
 	</tr>
 </table>
 
+---
+
+## Student Co-organizers
 
 ---
 *This website will be updated closer to the event date.*
