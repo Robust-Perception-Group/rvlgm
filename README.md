@@ -36,7 +36,7 @@ understanding of both theoretical frameworks and real-world implications.
     	<td> Welcome Message and Tutorial Overview </td>
 			<td valign="center"> 
 			<!-- Speaker 1 Image and Link -->
-			<a href="https://www.changhoonkim.com/">Changhoon Kim</a> (Ph.D. Candidate, ASU)
+			<a href="https://www.changhoonkim.com/">Changhoon Kim</a> (Assistant Professor, Soongsil University)
 			</td>
 	</tr>
 	<tr>
