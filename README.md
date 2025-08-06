@@ -3,8 +3,10 @@
 The official Website for Responsibly Building Generative Models Tutorial at ICCV 2025.
 
 Date and Time : TBD
-Zoom link: https://asu.zoom.us/j/81540604207?pwd=UdeUUq7B6MvEgNOnTKJuSrOAfSBzTF.1
-Pwd: eccv2024
+
+Zoom link: TBD
+
+Pwd: TBD
 
 Hosted by [Changhoon Kim](https://www.changhoonkim.com/) (SSU), <u>[Wanyu Du](https://wyu-du.github.io/) (AWS), [Dongyoon Yang] (SK Hynix), [Kyle Min](https://sites.google.com/view/kylemin) (Intel Labs), 
 <u>[Maitreya Patel](https://maitreyapatel.com/) (ASU) and [Yezhou Yang](https://yezhouyang.engineering.asu.edu/)(ASU) 
