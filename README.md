@@ -1,2 +1,88 @@
-# rbgm
-rbgm test
+# Tutorial on Responsible Vision-Language Generative Models @ ICCV 2025
+---
+The official Website for Responsibly Building Generative Models Tutorial at ICCV 2025.
+
+Date and Time 9/29, 2PM, Suite 7
+Zoom link: https://asu.zoom.us/j/81540604207?pwd=UdeUUq7B6MvEgNOnTKJuSrOAfSBzTF.1
+Pwd: eccv2024
+
+Hosted by [Gowthami Somepalli](https://somepago.github.io/) (UMD), [Changhoon Kim](https://www.changhoonkim.com/) (ASU), [Tejas Gokhale](https://www.tejasgokhale.com/) (UMBC), [Kyle Min](https://sites.google.com/view/kylemin) (Intel Labs), [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (ASU) and [Tom Goldstein](https://www.cs.umd.edu/~tomg/) (UMD)
+
+## Agenda
+Over the past few years, text-to-image (T2I) and image-to-text (I2T) vision-language generative models have evolved from research prototypes to widely deployed systems, transforming fields such as entertainment, journalism, and education. While these models enable compelling applications, they also introduce critical challenges related to robustness, controllability, and ethical risks. They can generate unauthorized content, including explicit or copyright-protected material, violating ethical and legal guidelines. Additionally, they suffer from prompt misalignment, biases, factual inconsistencies, and hallucinations, raising serious reliability concerns in high-stakes applications. Despite extensive guardrails, adversarial actors continue to develop jailbreaking techniques, leading to an ongoing arms race between security measures and attacks. Addressing these vulnerabilities demands a systematic analysis of failure modes, rigorous mitigation strategies, and deeper theoretical insights into adversarial robustness. Advancing our understanding of these challenges is essential for ensuring the safe, reliable, and responsible deployment of vision-language generative models.
+
+In this tutorial, we will provide a comprehensive exploration of vision-language generative models, covering both key challenges and recent advancements:
+- Reliability concerns in the real-world deployment of state-of-art models,
+- Failure models, including adversarial vulnerabilities and prompt misalignment, along with their broader implications,
+- Robustness and security strategies, with theoretical insights into adversarial training and multi-modal reliability,
+- Techniques for improving controllability, efficiency, and trustworthiness in vision-language generation.
+
+Each segment of the tutorial comprises two key components: (1) an in-depth lecture covering foundational methodologies, significant research findings, and relevant literature, and (2) interactive hands-on sessions, where applicable. The hands-on sessions will allow participants to directly experiment with vision-language generative models, providing practical insights into the reliability challenges discussed in the lectures. By analyzing failure modes firsthand, attendees will gain a deeper
+understanding of both theoretical frameworks and real-world implications.
+
+## Tentative Schedule
+<table>
+	<tr>
+		<th width="15%"> Time (UTC-10) </th>
+		<th width="40%"> Topic </th>
+		<th> Presenter </th>
+	</tr>
+	<tr>
+    	<td> 10 min </td>
+    	<td> Welcome Message and Tutorial Overview </td>
+			<td valign="center"> 
+			<!-- Speaker 1 Image and Link -->
+			<a href="https://www.changhoonkim.com/">Changhoon Kim</a> (Ph.D. Candidate, ASU)
+			</td>
+	</tr>
+	<tr>
+		<td> 15 min </td>
+		<td> Reliability Challenges and Advances in Vision-Language Generative Models  </td>
+		<td valign="center"> 
+			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%">
+			<a href="https://www.changhoonkim.com/">Changhoon Kim</a> <br/> (Assistant Professor, Soongsil University)
+		</td>
+	</tr>
+	<tr>
+		<td> 50+5 min </td>
+		<td> Concept Erasure in Text-to-Image Diffusion Models and Jailbreak Mitigation  </td>
+		<td valign="center"> 
+			<!--someone's image  -->  
+			<a>TBD</a> <br/> 
+		</td>
+	</tr>
+	<tr>
+		<td> 50+5 min </td>
+		<td> Adversarial Attacks and Robustness in Foundation Models  </td>
+		<td valign="center"> 
+			<img style="padding-right: 5%; float: left;" src="images/Wanyu Du.jpg" width="50%">   
+			<a href="https://wyu-du.github.io/">Wanyu Du</a> <br/> (Applied Scientist, AWS)
+		</td>
+	</tr>
+	<tr>
+		<td> 50+5 min </td>
+		<td>  Theoretical Foundations of Robustness in Vision-Language Generative Models  </td>
+		<td valign="center"> 
+			<!--DongYoon Yang's image  -->    
+			<a>Dongyoon Yang</a> <br/> (Research Scientist, SK Hynix)
+		</td>
+	</tr>
+	<tr>
+		<td> 10 min </td>
+		<td> Concluding Remarks and Future Direction </td>
+		<td valign="center"> 
+			<img style="padding-right: 5%; float: left;" src="images/ilke_demir.png" width="50%">   
+			<a href="https://faculty.engineering.asu.edu/yezhouyang/">Yezhou Yang</a> <br/> (Associate Professor, ASU)
+		</td>
+	</tr>
+</table>
+
+
+---
+*This website will be updated closer to the event date.*
+
+
+```
+The tutorial is supported by the University of Maryland Center for Machine Learning and the NSF Institute for Trustworthy AI in Law & Society. 
+Further support comes from Arizona State University through the NSF Robust Intelligence grant #2132724 and NSF SaTC project #2101052.
+```
