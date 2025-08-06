@@ -8,8 +8,8 @@ Zoom link: TBD
 
 Pwd: TBD
 
-Hosted by [Changhoon Kim](https://www.changhoonkim.com/) (SSU), <u>[Wanyu Du](https://wyu-du.github.io/) (AWS), [Dongyoon Yang] (SK Hynix), [Kyle Min](https://sites.google.com/view/kylemin) (Intel Labs), 
-<u>[Maitreya Patel](https://maitreyapatel.com/) (ASU) and [Yezhou Yang](https://yezhouyang.engineering.asu.edu/)(ASU) 
+Hosted by [Changhoon Kim](https://www.changhoonkim.com/) (SSU), [Wanyu Du](https://wyu-du.github.io/) (AWS), [Dongyoon Yang] (SK Hynix), [Kyle Min](https://sites.google.com/view/kylemin) (Intel Labs), 
+[Maitreya Patel](https://maitreyapatel.com/) (ASU) and [Yezhou Yang](https://yezhouyang.engineering.asu.edu/)(ASU) 
 
 ## Agenda
 Over the past few years, text-to-image (T2I) and image-to-text (I2T) vision-language generative models have evolved from research prototypes to widely deployed systems, transforming fields such as entertainment, journalism, and education. While these models enable compelling applications, they also introduce critical challenges related to robustness, controllability, and ethical risks. They can generate unauthorized content, including explicit or copyright-protected material, violating ethical and legal guidelines. Additionally, they suffer from prompt misalignment, biases, factual inconsistencies, and hallucinations, raising serious reliability concerns in high-stakes applications. Despite extensive guardrails, adversarial actors continue to develop jailbreaking techniques, leading to an ongoing arms race between security measures and attacks. Addressing these vulnerabilities demands a systematic analysis of failure modes, rigorous mitigation strategies, and deeper theoretical insights into adversarial robustness. Advancing our understanding of these challenges is essential for ensuring the safe, reliable, and responsible deployment of vision-language generative models.
