@@ -68,7 +68,7 @@ understanding of both theoretical frameworks and real-world implications.
 		<td> 50+5 min </td>
 		<td>  Theoretical Foundations of Robustness in Vision-Language Generative Models  </td>
 		<td valign="center"> 
-			<img  src ="images/DongYoonYang.jpeg"  style="width: 200px; height: 200px; object-fit: contain; float: left; margin-right: 10px;">    
+			<img  src ="images/YangDongYoon.jpeg"  style="width: 200px; height: 200px; object-fit: contain; float: left; margin-right: 10px;">    
 			<a>Dongyoon Yang</a> <br/> (Research Scientist, SK Hynix)
 		</td>
 	</tr>
