@@ -43,7 +43,8 @@ understanding of both theoretical frameworks and real-world implications.
 		<td> 15 min </td>
 		<td> Reliability Challenges and Advances in Vision-Language Generative Models  </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%">
+			<img src="images/changhoonkim.jpg"
+  style="width: 200px; height: 200px; object-fit: contain; float: left; margin-right: 10px;">
 			<a href="https://www.changhoonkim.com/">Changhoon Kim</a> <br/> (Assistant Professor, Soongsil University)
 		</td>
 	</tr>
@@ -59,7 +60,7 @@ understanding of both theoretical frameworks and real-world implications.
 		<td> 50+5 min </td>
 		<td> Adversarial Attacks and Robustness in Foundation Models  </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/Wanyu Du.jpg" width="50%">   
+			<img  src="images/Wanyu Du.jpg" style="width: 200px; height: 200px; object-fit: contain; float: left; margin-right: 10px;">   
 			<a href="https://wyu-du.github.io/">Wanyu Du</a> <br/> (Applied Scientist, AWS)
 		</td>
 	</tr>
@@ -67,7 +68,7 @@ understanding of both theoretical frameworks and real-world implications.
 		<td> 50+5 min </td>
 		<td>  Theoretical Foundations of Robustness in Vision-Language Generative Models  </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left:" src ="images/DongYoonYang.jpeg" width="50%">    
+			<img  src ="images/DongYoonYang.jpeg"  style="width: 200px; height: 200px; object-fit: contain; float: left; margin-right: 10px;">    
 			<a>Dongyoon Yang</a> <br/> (Research Scientist, SK Hynix)
 		</td>
 	</tr>
@@ -75,7 +76,7 @@ understanding of both theoretical frameworks and real-world implications.
 		<td> 10 min </td>
 		<td> Concluding Remarks and Future Direction </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/yezhouyang.webp" width="50%">   
+			<img  src="images/yezhouyang.webp"  style="width: 200px; height: 200px; object-fit: contain; float: left; margin-right: 10px;">   
 			<a href="https://faculty.engineering.asu.edu/yezhouyang/">Yezhou Yang</a> <br/> (Associate Professor, ASU)
 		</td>
 	</tr>
