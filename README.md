@@ -2,7 +2,7 @@
 ---
 The official Website for Responsibly Building Generative Models Tutorial at ICCV 2025.
 
-Date and Time : TBD
+Date and Time : 10/19 Sunday, 1pm - 5pm
 
 Zoom link: TBD
 
@@ -50,10 +50,10 @@ understanding of both theoretical frameworks and real-world implications.
 	</tr>
 	<tr>
 		<td> 50+5 min </td>
-		<td> Concept Erasure in Text-to-Image Diffusion Models and Jailbreak Mitigation  </td>
+		<td> Enhancing Generative Model Safety through Machine Unlearning  </td>
 		<td valign="center"> 
 			<!--someone's image  -->  
-			<a>TBD</a> <br/> 
+			<a>Sijia Liu</a> <br/> (Michigan State University)
 		</td>
 	</tr>
 	<tr>
