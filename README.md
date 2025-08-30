@@ -52,7 +52,7 @@ understanding of both theoretical frameworks and real-world implications.
 		<td> 50+5 min </td>
 		<td> Enhancing Generative Model Safety through Machine Unlearning  </td>
 		<td valign="center"> 
-			<img  src="images/sijiaLiu.jpg" style="width: 200px; height: 200px; object-fit: contain; float: left; margin-right: 10px;">   
+			<img  src="images/sijiaLiu.png" style="width: 200px; height: 200px; object-fit: contain; float: left; margin-right: 10px;">   
 			<a href="https://lsjxjtu.github.io/">Sijia Liu</a> <br/> (Michigan State University)
 		</td>
 	</tr>
