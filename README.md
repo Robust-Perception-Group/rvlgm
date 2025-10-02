@@ -8,7 +8,7 @@ Zoom link: TBD
 
 Pwd: TBD
 
-Hosted by [Changhoon Kim](https://www.changhoonkim.com/) (SSU), [Wanyu Du](https://wyu-du.github.io/) (AWS), Dongyoon Yang (SK Hynix), [Kyle Min](https://sites.google.com/view/kylemin) (Intel Labs), 
+Hosted by [Changhoon Kim](https://www.changhoonkim.com/) (SSU), [Wanyu Du](https://wyu-du.github.io/) (AWS), Dongyoon Yang (SK Hynix), [Kyle Min](https://sites.google.com/view/kylemin) (Oracle), 
 [Maitreya Patel](https://maitreyapatel.com/) (ASU) and      
 [Yezhou Yang](https://yezhouyang.engineering.asu.edu/)(ASU) 
 
