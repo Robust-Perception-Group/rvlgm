@@ -6,9 +6,9 @@ Date and Time : 10/19 Sunday, 1pm - 5pm
 
 Location: 316B
 
-Zoom link: TBD
+Zoom link: https://us06web.zoom.us/j/84288623315?pwd=As0O2exWbUnQ29Xj7TqRTlG3OZHhay.1
 
-Pwd: TBD
+Pwd: iccv2025
 
 Hosted by [Changhoon Kim](https://www.changhoonkim.com/) (SSU), [Wanyu Du](https://wyu-du.github.io/) (AWS), Dongyoon Yang (SK Hynix), [Kyle Min](https://sites.google.com/view/kylemin) (Oracle), 
 [Maitreya Patel](https://maitreyapatel.com/) (ASU) and      
