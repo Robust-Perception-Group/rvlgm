@@ -4,6 +4,8 @@ The official Website for Responsibly Building Generative Models Tutorial at ICCV
 
 Date and Time : 10/19 Sunday, 1pm - 5pm
 
+Location: 316B
+
 Zoom link: TBD
 
 Pwd: TBD
